@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iExtractor</string>
+    <string name="choose_your_video">CHOOSE YOUR VIDEO</string>
+    <string name="switch_to_video_to_mp3">SWITCH TO “VIDEO TO MP3”</string>
+    <string name="the_current_project_will_be_lost_are_you_sure_you_want_to_switch">The current project will be lost.\n Are you sure you want to switch?</string>
+    <string name="cancel">CANCEL</string>
+    <string name="switches">SWITCH</string>
+</resources>
